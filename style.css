@@ -10,7 +10,7 @@ color: #8E44AD;
 }
 
 p.heading {
-width: 500px padding: 10px; margin: auto auto auto auto;
+width: 500px padding: 10px; margin: 10px auto 10px auto;
 text-align: center; 
 }
 
@@ -19,7 +19,3 @@ h4 {
  text-shadow: 1px 1px 0px #000000;
 }
 
-div {
-width: 500px;
-padding: 10px;
-}
