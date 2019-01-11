@@ -1,11 +1,8 @@
 body {
 background-color: #E5E7E9;
 font-family: sans-serif;
-}
-
-p.heading {
 width: 900px padding: 10px; margin: 10px auto 10px auto;
-text-align: center; 
+text-align: center;
 }
 
 h1 {
