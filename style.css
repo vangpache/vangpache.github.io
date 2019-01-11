@@ -3,10 +3,11 @@ background-color: #E5E7E9;
 font-family: sans-serif;
 }
 
-h1 {
+p.heading {
 background-color: #5499C7;
 font-family: sans-serif; 
 color: #8E44AD; 
+width: 500px padding: 10px; margin: 10px auto 10px auto;
 text-align: center; 
 }
 
