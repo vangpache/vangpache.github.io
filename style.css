@@ -3,10 +3,13 @@ background-color: #E5E7E9;
 font-family: sans-serif;
 }
 
-p.heading {
+h1 {
 background-color: #5499C7;
 font-family: sans-serif; 
 color: #8E44AD; 
+}
+
+p.heading {
 width: 500px padding: 10px; margin: auto auto auto auto;
 text-align: center; 
 }
