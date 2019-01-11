@@ -16,5 +16,6 @@ h4 {
 }
 
 div {
-text-align: center;
+width: 500px;
+padding: 10px;
 }
