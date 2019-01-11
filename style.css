@@ -13,3 +13,8 @@ font-family: sans-serif;
 color: #8E44AD; 
 text-align: center; 
 }
+
+h4 {
+ color: #34495E
+ text-shadow: 1px 1px 0px #000000;
+}
