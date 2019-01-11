@@ -2,6 +2,7 @@ body {
 background-color: #E5E7E9;
 font-family: sans-serif;
 }
+
 p.heading {
 width: 900px padding: 10px; margin: 10px auto 10px auto;
 text-align: center; 
@@ -11,10 +12,5 @@ h1 {
 background-color: #5499C7;
 font-family: sans-serif; 
 color: #8E44AD; 
-}
-
-h4 {
- color: #34495E
- text-shadow: 1px 1px 0px #000000;
 }
 
