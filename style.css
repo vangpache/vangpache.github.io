@@ -5,11 +5,12 @@ text-align: center;
 }
 
 p {
-width: 900px padding: 100px;
+width: 900px 
+padding: 100px;
 }
 
 p.heading {
-margin: 100px auto 10px auto;
+margin: 10px auto 10px auto;
 }
 
 h1 {
