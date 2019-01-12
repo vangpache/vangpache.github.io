@@ -1,5 +1,5 @@
 body {
-background-color: #E5E7E9;
+background-color: #FEF9E7;
 width: 900px;
 margin: 10px auto 10px auto;
 text-align: left;
@@ -14,5 +14,6 @@ color: #FDFEFE;
 
 h4 {
 background-color: #AED6F1  
+padding: 10px;
 }
 
