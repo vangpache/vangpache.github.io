@@ -1,21 +1,14 @@
 body {
 background-color: #E5E7E9;
+padding: 20px;
 font-family: sans-serif;
 text-align: center;
-}
-
-p {
-width: 900px 
-padding: 100px;
-}
-
-.heading {
-margin: 10px auto 10px auto;
+width: 900px;
 }
 
 h1 {
-background-color: #5499C7;
+background-color: #AED6F1;
 font-family: sans-serif; 
-color: #8E44AD; 
+color: #F7DC6F; 
 }
 
