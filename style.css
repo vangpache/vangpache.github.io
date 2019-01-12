@@ -1,8 +1,9 @@
 body {
 background-color: #E5E7E9;
 padding: 20px;
+margin: 10px auto 10px auto;
+text-align: left;
 font-family: sans-serif;
-text-align: center;
 width: 900px;
 }
 
