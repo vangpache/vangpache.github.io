@@ -7,8 +7,12 @@ font-family: sans-serif;
 }
 
 h1 {
-background-color: #AED6F1;
+background-color: #34495E;
 font-family: sans-serif; 
-color: #34495E; 
+color: #FDFEFE; 
+}
+
+h4 {
+background-color: #AED6F1  
 }
 
